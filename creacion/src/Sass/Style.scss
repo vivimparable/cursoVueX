@@ -1,0 +1,21 @@
+//GlobalSass//
+@import 'VariablesColors';
+@import 'Animations';
+
+
+//UserSassView Modulo//
+@import '@/Modulos/Usuario/Sass/GlobalUser.scss';
+
+
+//AdminSassView Modulo//
+@import '@/Modulos/Administrador/Sass/GlobalAdmin.scss';
+
+
+
+//BootstrapDependencie//
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+
+
+
+
+

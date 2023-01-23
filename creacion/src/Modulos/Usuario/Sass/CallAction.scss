@@ -1,0 +1,6 @@
+@mixin radiusBorder($size1){
+    
+    border-top-left-radius: $size1;
+    border-top-right-radius: $size1;
+    border-bottom: solid 1rem rgb(255, 255, 255);
+}
